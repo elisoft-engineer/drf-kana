@@ -12,7 +12,7 @@
 - **REST API Ready**: Auto-create DRF serializers and URLs for authentication (JWT/OAuth2 optional).
 - **CLI Power**: Django management commands for seamless integration.
 
-## Installation 📦
+## Installation 📦 (soon)
 
 ```bash
 pip install drf-kana
