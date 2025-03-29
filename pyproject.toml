@@ -1,0 +1,19 @@
+[project]
+name = "drf-kana"
+version = "0.1.0"
+description = "A cli tool for generating commonly used apps in drf"
+authors = [
+    {name = "Elkana Maina",email = "elisoft.engineer@gmail.com"}
+]
+license = {text = "MIT"}
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "django (>=5.1.7,<6.0.0)",
+    "djangorestframework (>=3.16.0,<4.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
